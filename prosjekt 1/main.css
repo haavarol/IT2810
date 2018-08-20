@@ -1,7 +1,25 @@
-* {
-  background-color: #f9f9f9
+body {
+  background-color: #E4F1F6;
+  color: #091034;
+
 }
+
+#top {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 50%;
+  width: 100%;
+  background-color: #67AFCB;
+  z-index: -1;
+}
+
 h1 {
   text-align: center;
   font-family: 'Verdana';
+  color: #272b2e;
+  
+}
+section {
+  padding:0% 20% 0%;
 }
